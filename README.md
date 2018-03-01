@@ -1,5 +1,3 @@
-# TetrisAI
+This branch serves for GitHub Pages for this project.
 
-A simple Tetris game with AI play mode. You can watch the program play the game and have a cup of coffee :)
-
-Uses Windows API.
+[View it now!](https://ibug.github.io/TetrisAI)
