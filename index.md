@@ -1,10 +1,8 @@
-# TetrisAI
-
 A simple Tetris game with AI play mode. You can watch the program play the game and have a cup of coffee `:)`
 
 It uses Windows API so only runs on Windows.
 
-##### Screenshot
+# Screenshot
 
 ![Screenshot 1](/image/1.png)
 
