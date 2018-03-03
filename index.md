@@ -6,4 +6,6 @@ It uses Windows API so only runs on Windows.
 
 ![Screenshot 1](/image/1.png)
 
+![Screenshot 2](/image/2.png)
+
 ### [Get the latest release](https://github.com/iBug/TetrisAI/releases/latest)
