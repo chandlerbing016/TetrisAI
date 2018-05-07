@@ -1,9 +1,9 @@
-theme: jekyll-theme-tactile
+remote_theme: iBug/project-theme
 
 title: TetrisAI
 description: A console Tetris game with AI play. Runs on Windows
 show_downloads: true
 
-github:
+download:
   zip_url: https://github.com/iBug/TetrisAI/archive/master.zip
   tar_url: https://github.com/iBug/TetrisAI/archive/master.tar.gz
