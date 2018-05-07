@@ -1,7 +1,7 @@
 remote_theme: iBug/project-theme
 
 title: TetrisAI
-description: A console Tetris game with AI play. Runs on Windows
+description: "A console Tetris game with AI play\nRuns on Windows"
 show_downloads: true
 
 download:
